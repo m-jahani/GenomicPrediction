@@ -1,6 +1,6 @@
 #train a rrblup genomic prediction model with PAVs and predict the phenotype for a range of absence allele from 0 to 100
 #Mojtaba Jahani
-#November 2022
+#November 2021
 #######################################################Load Packages########################################################
 
 library(rrBLUP)
